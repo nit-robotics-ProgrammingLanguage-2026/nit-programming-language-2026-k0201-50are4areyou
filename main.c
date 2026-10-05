@@ -1,7 +1,10 @@
 #include <stdio.h>
 
-int main(void) {
-    /* 課題0201: ここに printf を使って画面出力を行うコードを記述してください */
-    
+int main(void) 
+{
+ 
+    printf("hello world");
+    printf("答えは%dです。", 6+7);
+
     return 0;
 }
